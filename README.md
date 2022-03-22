@@ -36,3 +36,7 @@
 
 【BetterBench知乎】[【2022天府杯数学建模】A题 仪器故障智能诊断技术 Python实现代码](https://zhuanlan.zhihu.com/p/485577163?)  
 【40页论文下载】[https://mianbaoduo.com/o/bread/mbd-Ypiam5hs](https://mianbaoduo.com/o/bread/mbd-Ypiam5hs)
+
+# 3 部分图展示  
+![1](https://pic3.zhimg.com/80/v2-b8df013557fb92c59194f89800a72efe_1440w.jpg)
+![2](https://pic2.zhimg.com/80/v2-dabd85328e8213cacd6adea323cb98e5_1440w.jpg)
